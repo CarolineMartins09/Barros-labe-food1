@@ -74,18 +74,19 @@ Este é um projeto de Front-end, baseado em aplicativos de delivery de comida, d
 
 ## Feed com pedido em andamento
 
-![](./src/img/feed-banner.png)
+![](./labefood/src/img/feed-banner.png)
 
 ## Carrinho com pedido
-![](./src/img/cart.JPG)
+
+![](./labefood/src/img/cart.JPG)
 
 ## Carrinho vazio
-![](./src/img/cart-vazio.png)
+![](./labefood/src/img/cart-vazio.png)
 
 ## Perfil com histórico
-![](./src/img/perfil.png)
+![](./labefood/src/img/perfil.png)
 
 ## Edição do perfil 
-![](./src/img/edit-profile.JPG)
+![](./labefood/src/img/edit-profile.JPG)
 
 
